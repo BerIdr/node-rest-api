@@ -8,7 +8,7 @@ Tämä projekti on Node.js- ja Express-pohjainen REST API, joka tarjoaa yksinker
 
    ```bash
    git clone <git@github.com:BerIdr/node-rest-api.git>
-   cd <repository-directory>
+   cd <idrizberisha@Idrizs-MacBook-Pro node-rest-api>
 
    ### Testitulokset
    ```
